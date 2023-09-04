@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "moveIconsConsole", "moveIconsConsole.vcxproj", "{944F5761-442D-4BC2-A61D-65C6BAFCC4E7}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "moveIconsExe", "..\moveIconsExe\moveIconsExe.vdproj", "{BA61F173-2492-44F7-94E7-66812AE7509A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{944F5761-442D-4BC2-A61D-65C6BAFCC4E7}.Debug|x64.ActiveCfg = Debug|x64
+		{944F5761-442D-4BC2-A61D-65C6BAFCC4E7}.Debug|x64.Build.0 = Debug|x64
+		{944F5761-442D-4BC2-A61D-65C6BAFCC4E7}.Debug|x86.ActiveCfg = Debug|Win32
+		{944F5761-442D-4BC2-A61D-65C6BAFCC4E7}.Debug|x86.Build.0 = Debug|Win32
+		{944F5761-442D-4BC2-A61D-65C6BAFCC4E7}.Release|x64.ActiveCfg = Release|x64
+		{944F5761-442D-4BC2-A61D-65C6BAFCC4E7}.Release|x64.Build.0 = Release|x64
+		{944F5761-442D-4BC2-A61D-65C6BAFCC4E7}.Release|x86.ActiveCfg = Release|Win32
+		{944F5761-442D-4BC2-A61D-65C6BAFCC4E7}.Release|x86.Build.0 = Release|Win32
+		{BA61F173-2492-44F7-94E7-66812AE7509A}.Debug|x64.ActiveCfg = Debug
+		{BA61F173-2492-44F7-94E7-66812AE7509A}.Debug|x86.ActiveCfg = Debug
+		{BA61F173-2492-44F7-94E7-66812AE7509A}.Release|x64.ActiveCfg = Release
+		{BA61F173-2492-44F7-94E7-66812AE7509A}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2A739208-016E-44A7-9920-3ADF296E2055}
+	EndGlobalSection
+EndGlobal

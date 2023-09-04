@@ -1,0 +1,7 @@
+﻿  moveIconsConsole.cpp
+C:\Users\19873\source\repos\moveIconsConsole\moveIconsConsole.cpp(12,1): warning C4005: “UNICODE”: 宏重定义
+C:\Users\19873\source\repos\moveIconsConsole\moveIconsConsole.cpp(12,1): message : 之前在命令行上声明的“UNICODE”
+C:\Users\19873\source\repos\moveIconsConsole\moveIconsConsole.cpp(13,1): warning C4005: “_UNICODE”: 宏重定义
+C:\Users\19873\source\repos\moveIconsConsole\moveIconsConsole.cpp(13,1): message : 之前在命令行上声明的“_UNICODE”
+C:\Users\19873\source\repos\moveIconsConsole\moveIconsConsole.cpp(56,15): warning C4244: “初始化”: 从“LRESULT”转换到“int”，可能丢失数据
+  moveIconsConsole.vcxproj -> C:\Users\19873\source\repos\moveIconsConsole\x64\Debug\moveIconsConsole.exe
